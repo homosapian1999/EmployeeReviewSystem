@@ -22,4 +22,5 @@ The Employee Review System App is a web-based application built using Node.js, E
 
 1. Clone the repository: You can use git bash and clone
 2. Install dependencies: npm i
-3. Set up environment variables: Set up your own environment varaibes;
+3. Set up environment variables: Set up your own environment varaibes
+4. Admin code: secret
